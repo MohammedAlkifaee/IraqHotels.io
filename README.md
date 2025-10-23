@@ -13,6 +13,6 @@
 <p>Data is encrypted in transit (HTTPS). You can request account deletion via our support email.</p>
 <h2>Third parties</h2>
 <p>Google services such as Sign-In and Maps are used; their policies apply.</p>
-<p>Contact: support@yourdomain.com</p>
+<p>Contact: info@iraq-hotels.com</p>
 <p>Last updated: 2025-10-23</p>
 </body></html>
